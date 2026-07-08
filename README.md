@@ -37,35 +37,31 @@ Motivated Software Engineering student with a strong foundation in web developme
 ---
 
 ## 🟣 Tech Stack
-
+ 
 <div align="center">
-
 **Languages**
-
-![JavaScript](https://skillicons.dev/icons?i=js&theme=dark) ![C](https://skillicons.dev/icons?i=c&theme=dark) ![C++](https://skillicons.dev/icons?i=cpp&theme=dark) ![SQL](https://skillicons.dev/icons?i=mysql&theme=dark) ![HTML](https://skillicons.dev/icons?i=html&theme=dark) ![CSS](https://skillicons.dev/icons?i=css&theme=dark)
-
+ 
+![Languages](https://skillicons.dev/icons?i=js,c,cpp,mysql,html,css&theme=dark)
+ 
 **Frontend**
-
-![React](https://skillicons.dev/icons?i=react&theme=dark) ![Flutter](https://skillicons.dev/icons?i=flutter&theme=dark) ![Tailwind](https://skillicons.dev/icons?i=tailwind&theme=dark) ![Dart](https://skillicons.dev/icons?i=dart&theme=dark)
-
+ 
+![Frontend](https://skillicons.dev/icons?i=react,flutter,tailwind,dart&theme=dark)
+ 
 **Backend**
-
-![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark) ![Express](https://skillicons.dev/icons?i=express&theme=dark)
-
+ 
+![Backend](https://skillicons.dev/icons?i=nodejs,express&theme=dark)
+ 
 **Databases**
-
-![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark) ![SQLite](https://skillicons.dev/icons?i=sqlite&theme=dark)
-
+ 
+![Databases](https://skillicons.dev/icons?i=mysql,sqlite&theme=dark)
+ 
 **Tools**
-
-![Git](https://skillicons.dev/icons?i=git&theme=dark) ![Apache](https://skillicons.dev/icons?i=apache&theme=dark) ![XAMPP](https://skillicons.dev/icons?i=xampp&theme=dark)
-
+ 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white) ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+ 
 **Frameworks**
-
-![Tailwind CSS](https://skillicons.dev/icons?i=tailwind&theme=dark) ![Flutter](https://skillicons.dev/icons?i=flutter&theme=dark)
-
-</div>
-
+ 
+![Frameworks](https://skillicons.dev/icons?i=tailwind,flutter&theme=dark)
 ---
 
 ## 🟣 Featured Projects

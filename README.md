@@ -34,12 +34,13 @@
 <img src="https://img.shields.io/badge/Product%20Engineering-Mindset-8B5CF6?style=flat-square"/>
 </div>
 
+<br>
+
 I'm a Software Engineering student who's spent the past few years building a solid foundation in web development and modern JavaScript. I like figuring things out hands-on, which is why most of my learning has come from actually building things: real applications using React, Flutter, and Node.js, not just following tutorials. I'm disciplined about pushing myself to learn, and I genuinely enjoy solving problems and thinking through how to make an experience feel better for the person using it.
 
-**Career Objective:** Looking to start my corporate career in software engineering, where I can put my full stack skills to work building applications that actually hold up in the real world.
+**Career Objective:** Looking to start my career in software engineering, where I can put my full stack skills to work building applications that actually hold up in the real world, not just in a classroom project.
 
-**Open To:** Software Engineering roles and Freelance Projects
-
+**Open To:** Entry-level Software Engineering roles
 ---
 
 ## 🟣 Tech Stack

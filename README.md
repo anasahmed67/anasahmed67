@@ -34,11 +34,11 @@
 <img src="https://img.shields.io/badge/Product%20Engineering-Mindset-8B5CF6?style=flat-square"/>
 </div>
 
-Motivated Software Engineering student with a strong foundation in web development and modern JavaScript technologies. Self-driven and disciplined, with hands-on experience building real-world applications using React, Flutter, and Node.js. Passionate about solving problems, improving user experience, and continuously learning to excel in entry-level software engineering roles.
+I'm a Software Engineering student who's spent the past few years building a solid foundation in web development and modern JavaScript. I like figuring things out hands-on, which is why most of my learning has come from actually building things: real applications using React, Flutter, and Node.js, not just following tutorials. I'm disciplined about pushing myself to learn, and I genuinely enjoy solving problems and thinking through how to make an experience feel better for the person using it.
 
-**Career Objective:** Excel in an entry-level software engineering role, applying full stack development skills to build scalable, real-world applications.
+**Career Objective:** Looking to start my corporate career in software engineering, where I can put my full stack skills to work building applications that actually hold up in the real world.
 
-**Open To:** Entry-level Software Engineering opportunities
+**Open To:** Software Engineering roles and Freelance Projects
 
 ---
 
@@ -84,7 +84,7 @@ Full-stack application built to manage vehicles, bookings, and user data with st
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 |---|---|---|---|---|---|
-| Node.js, Express, SQLite, EJS | Full-Stack | Coming Soon | RBAC implemented | Streamlined vehicle, booking, and user management | Private |
+| Node.js, Express, SQLite, EJS | Full-Stack | Coming Soon | RBAC implemented | Streamlined vehicle, booking, and user management | Public |
 
 </details>
 
@@ -96,7 +96,7 @@ Flutter application for tracking stock, managing products, and handling real-tim
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 |---|---|---|---|---|---|
-| Flutter | Mobile App | Real-time updates | RBAC implemented | Improved stock and product tracking accuracy | Private |
+| Flutter | Mobile App | Real-time updates | RBAC implemented | Improved stock and product tracking accuracy | Public |
 
 </details>
 
@@ -108,7 +108,7 @@ Full-stack reservation platform with cross-platform deployment and role-based ac
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 |---|---|---|---|---|---|
-| Dart Shelf, Flutter, MySQL | Cross-Platform | Coming Soon | RBAC implemented | Enabled structured hotel reservation management | Private |
+| Dart Shelf, Flutter, MySQL | Cross-Platform | Coming Soon | RBAC implemented | Enabled structured hotel reservation management | Public |
 
 </details>
 

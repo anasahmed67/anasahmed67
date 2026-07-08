@@ -17,12 +17,6 @@
 [![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anasahmed5404@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anasahmed67)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=anasahmed67&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/anasahmed67?style=for-the-badge&color=6D28D9&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/anasahmed67?style=for-the-badge&color=A78BFA&label=STARS)
-
 </div>
 
 ---
@@ -61,14 +55,6 @@ Motivated Software Engineering student with a strong foundation in web developme
 **Databases**
 
 ![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark) ![SQLite](https://skillicons.dev/icons?i=sqlite&theme=dark)
-
-**Cloud**
-
-`Coming Soon`
-
-**DevOps**
-
-`Coming Soon`
 
 **Tools**
 

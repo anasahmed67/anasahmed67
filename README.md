@@ -17,6 +17,12 @@
 [![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anasahmed5404@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anasahmed67)
 
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=anasahmed67&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/anasahmed67?style=for-the-badge&color=6D28D9&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/anasahmed67?style=for-the-badge&color=A78BFA&label=STARS)
+
 </div>
 
 ---
@@ -37,31 +43,35 @@ Motivated Software Engineering student with a strong foundation in web developme
 ---
 
 ## 🟣 Tech Stack
- 
+
 <div align="center">
+
 **Languages**
- 
+
 ![Languages](https://skillicons.dev/icons?i=js,c,cpp,mysql,html,css&theme=dark)
- 
+
 **Frontend**
- 
+
 ![Frontend](https://skillicons.dev/icons?i=react,flutter,tailwind,dart&theme=dark)
- 
+
 **Backend**
- 
+
 ![Backend](https://skillicons.dev/icons?i=nodejs,express&theme=dark)
- 
+
 **Databases**
- 
+
 ![Databases](https://skillicons.dev/icons?i=mysql,sqlite&theme=dark)
- 
+
 **Tools**
- 
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white) ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
- 
+
 **Frameworks**
- 
+
 ![Frameworks](https://skillicons.dev/icons?i=tailwind,flutter&theme=dark)
+
+</div>
+
 ---
 
 ## 🟣 Featured Projects
@@ -74,7 +84,7 @@ Full-stack application built to manage vehicles, bookings, and user data with st
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 |---|---|---|---|---|---|
-| Node.js, Express, SQLite, EJS | Full-Stack | Coming Soon | RBAC implemented | Streamlined vehicle, booking, and user management | Public |
+| Node.js, Express, SQLite, EJS | Full-Stack | Coming Soon | RBAC implemented | Streamlined vehicle, booking, and user management | Private |
 
 </details>
 
@@ -86,7 +96,7 @@ Flutter application for tracking stock, managing products, and handling real-tim
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 |---|---|---|---|---|---|
-| Flutter | Mobile App | Real-time updates | RBAC implemented | Improved stock and product tracking accuracy | Public |
+| Flutter | Mobile App | Real-time updates | RBAC implemented | Improved stock and product tracking accuracy | Private |
 
 </details>
 
@@ -98,7 +108,7 @@ Full-stack reservation platform with cross-platform deployment and role-based ac
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 |---|---|---|---|---|---|
-| Dart Shelf, Flutter, MySQL | Cross-Platform | Coming Soon | RBAC implemented | Enabled structured hotel reservation management | Public |
+| Dart Shelf, Flutter, MySQL | Cross-Platform | Coming Soon | RBAC implemented | Enabled structured hotel reservation management | Private |
 
 </details>
 
@@ -122,6 +132,18 @@ Strong foundation in mathematics and physics.
 
 ---
 
+## 🟣 Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| Coming Soon | Coming Soon |
+
+</div>
+
+---
+
 ## 🟣 GitHub Analytics
 
 <div align="center">
@@ -130,6 +152,7 @@ Strong foundation in mathematics and physics.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=anasahmed67&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="48%"/>
 
 </div>
+
 
 ---
 
@@ -161,8 +184,8 @@ learning:
   - Flutter
   - Node.js / Express
 building:
-  - Full-stack applications 
-  - Freelancing 
+  - Full-stack applications with RBAC
+  - Personal portfolio and project showcase
 exploring:
   - Digital marketing and content strategy
   - Copywriting

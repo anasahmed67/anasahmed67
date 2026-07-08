@@ -1,16 +1,226 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**anasahmed67/anasahmed67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Anas%20Ahmed&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
-Here are some ideas to get you started:
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;React+%7C+Flutter+%7C+Node.js+Developer;Building+Real-World+Applications;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+![Education](https://img.shields.io/badge/Bachelor%20of%20Software%20Engineering-Ziauddin%20University-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://anasportfolio45.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anas-ahmed45)
+[![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anasahmed5404@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anasahmed67)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=anasahmed67&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/anasahmed67?style=for-the-badge&color=6D28D9&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/anasahmed67?style=for-the-badge&color=A78BFA&label=STARS)
+
+</div>
+
+---
+
+## 🟣 About Me
+
+<div align="center">
+<img src="https://img.shields.io/badge/Software%20Engineering-Full%20Stack%20Development-6D28D9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Product%20Engineering-Mindset-8B5CF6?style=flat-square"/>
+</div>
+
+Motivated Software Engineering student with a strong foundation in web development and modern JavaScript technologies. Self-driven and disciplined, with hands-on experience building real-world applications using React, Flutter, and Node.js. Passionate about solving problems, improving user experience, and continuously learning to excel in entry-level software engineering roles.
+
+**Career Objective:** Excel in an entry-level software engineering role, applying full stack development skills to build scalable, real-world applications.
+
+**Open To:** Entry-level Software Engineering opportunities
+
+---
+
+## 🟣 Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![JavaScript](https://skillicons.dev/icons?i=js&theme=dark) ![C](https://skillicons.dev/icons?i=c&theme=dark) ![C++](https://skillicons.dev/icons?i=cpp&theme=dark) ![SQL](https://skillicons.dev/icons?i=mysql&theme=dark) ![HTML](https://skillicons.dev/icons?i=html&theme=dark) ![CSS](https://skillicons.dev/icons?i=css&theme=dark)
+
+**Frontend**
+
+![React](https://skillicons.dev/icons?i=react&theme=dark) ![Flutter](https://skillicons.dev/icons?i=flutter&theme=dark) ![Tailwind](https://skillicons.dev/icons?i=tailwind&theme=dark) ![Dart](https://skillicons.dev/icons?i=dart&theme=dark)
+
+**Backend**
+
+![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark) ![Express](https://skillicons.dev/icons?i=express&theme=dark)
+
+**Databases**
+
+![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark) ![SQLite](https://skillicons.dev/icons?i=sqlite&theme=dark)
+
+**Cloud**
+
+`Coming Soon`
+
+**DevOps**
+
+`Coming Soon`
+
+**Tools**
+
+![Git](https://skillicons.dev/icons?i=git&theme=dark) ![Apache](https://skillicons.dev/icons?i=apache&theme=dark) ![XAMPP](https://skillicons.dev/icons?i=xampp&theme=dark)
+
+**Frameworks**
+
+![Tailwind CSS](https://skillicons.dev/icons?i=tailwind&theme=dark) ![Flutter](https://skillicons.dev/icons?i=flutter&theme=dark)
+
+</div>
+
+---
+
+## 🟣 Featured Projects
+
+<details>
+<summary><b>🔹 Vehicle Rental System</b></summary>
+<br/>
+
+Full-stack application built to manage vehicles, bookings, and user data with structured server-side logic and role-based access control.
+
+| Stack | Scale | Performance | Security | Impact | Repository |
+|---|---|---|---|---|---|
+| Node.js, Express, SQLite, EJS | Full-Stack | Coming Soon | RBAC implemented | Streamlined vehicle, booking, and user management | Public |
+
+</details>
+
+<details>
+<summary><b>🔹 Inventory Management System</b></summary>
+<br/>
+
+Flutter application for tracking stock, managing products, and handling real-time inventory updates with role-based access control.
+
+| Stack | Scale | Performance | Security | Impact | Repository |
+|---|---|---|---|---|---|
+| Flutter | Mobile App | Real-time updates | RBAC implemented | Improved stock and product tracking accuracy | Public |
+
+</details>
+
+<details>
+<summary><b>🔹 Hotel Management System</b></summary>
+<br/>
+
+Full-stack reservation platform with cross-platform deployment and role-based access control.
+
+| Stack | Scale | Performance | Security | Impact | Repository |
+|---|---|---|---|---|---|
+| Dart Shelf, Flutter, MySQL | Cross-Platform | Coming Soon | RBAC implemented | Enabled structured hotel reservation management | Public |
+
+</details>
+
+---
+
+## 🟣 Learning Journey
+
+Since formal professional experience is still building, here is the academic and practical foundation so far.
+
+**Bachelor of Software Engineering**
+*Ziauddin University (2024 – 2027)*
+
+Focused on core programming and modern web technologies while actively building practical skills through real-world projects.
+
+![React](https://img.shields.io/badge/React-6D28D9?style=flat-square&logo=react&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-6D28D9?style=flat-square&logo=flutter&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-6D28D9?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**Intermediate in Pre-Engineering**
+*Degree College (2021 – 2022)*
+
+Strong foundation in mathematics and physics.
+
+---
+
+## 🟣 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=anasahmed67&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anasahmed67&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="48%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasahmed67&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" width="48%"/>
+
+</div>
+
+---
+
+## 🟣 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=anasahmed67&theme=radical&no-frame=true&margin-w=10&column=7"/>
+
+</div>
+
+---
+
+## 🟣 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anasahmed67&theme=react-dark&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD"/>
+
+</div>
+
+---
+
+## 🟣 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/anasahmed67/anasahmed67/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+## 🟣 Current Focus
+
+```yaml
+learning:
+  - React.js
+  - Flutter
+  - Node.js / Express
+building:
+  - Full-stack applications 
+  - Freelancing 
+exploring:
+  - Digital marketing and content strategy
+  - Copywriting
+open_to:
+  - Entry-level Software Engineering roles
+```
+
+---
+
+## 🟣 Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-anasahmed5404%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anasahmed5404@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anas--ahmed45-6366F1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anas-ahmed45)
+[![GitHub](https://img.shields.io/badge/GitHub-anasahmed67-1E1B4B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anasahmed67)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://anasportfolio45.netlify.app/)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Code is the closest thing we have to turning thought into reality."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer"/>
+
+</div>

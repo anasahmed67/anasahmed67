@@ -133,20 +133,6 @@ Strong foundation in mathematics and physics.
 <img src="https://github-readme-stats.vercel.app/api?username=anasahmed67&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=anasahmed67&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="48%"/>
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasahmed67&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" width="48%"/>
-
-</div>
-
----
-
-## 🟣 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=anasahmed67&theme=radical&no-frame=true&margin-w=10&column=7"/>
-
 </div>
 
 ---

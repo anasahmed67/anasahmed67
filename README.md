@@ -97,7 +97,7 @@ Flutter application for tracking stock, managing products, and handling real-tim
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 |---|---|---|---|---|---|
-| Flutter | Mobile App | Real-time updates | RBAC implemented | Improved stock and product tracking accuracy | Public |
+| Flutter | Mobile App | Real-time updates | RBAC implemented | Improved stock and product tracking accuracy | Private |
 
 </details>
 
@@ -130,18 +130,6 @@ Focused on core programming and modern web technologies while actively building 
 *Degree College (2021 – 2022)*
 
 Strong foundation in mathematics and physics.
-
----
-
-## 🟣 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| Coming Soon | Coming Soon |
-
-</div>
 
 ---
 
@@ -189,9 +177,9 @@ building:
   - Personal portfolio and project showcase
 exploring:
   - Digital marketing and content strategy
-  - Copywriting
+  - Copywriting and Personal Branding
 open_to:
-  - Entry-level Software Engineering roles
+  - Software Engineering roles and Freelance Projects
 ```
 
 ---

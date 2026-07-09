@@ -41,6 +41,7 @@ I'm a Software Engineering student who's spent the past few years building a sol
 **Career Objective:** Looking to start my career in software engineering, where I can put my full stack skills to work building applications that actually hold up in the real world, not just in a classroom project.
 
 **Open To:** Entry-level Software Engineering roles
+
 ---
 
 ## 🟣 Tech Stack

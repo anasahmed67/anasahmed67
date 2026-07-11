@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="100%">
+  <defs>
+    <!-- Animated Gradient Background -->
+    <linearGradient id="cosmic-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f0c29">
+        <animate attributeName="stop-color" values="#0f0c29;#1a0b2e;#0f0c29" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#302b63">
+        <animate attributeName="stop-color" values="#302b63;#4a148c;#302b63" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#24243e">
+        <animate attributeName="stop-color" values="#24243e;#311b92;#24243e" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    
+    <!-- Glow Filter -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="300" fill="url(#cosmic-grad)"/>
+  
+  <!-- Twinkling Stars -->
+  <circle cx="100" cy="50" r="1.5" fill="white" opacity="0.8">
+    <animate attributeName="opacity" values="0.8;0.2;0.8" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="300" cy="80" r="1" fill="white" opacity="0.6">
+    <animate attributeName="opacity" values="0.6;0.1;0.6" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="600" cy="30" r="1.2" fill="white" opacity="0.7">
+    <animate attributeName="opacity" values="0.7;0.3;0.7" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="900" cy="120" r="1" fill="white" opacity="0.5">
+    <animate attributeName="opacity" values="0.5;0.1;0.5" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1100" cy="60" r="1.5" fill="white" opacity="0.9">
+    <animate attributeName="opacity" values="0.9;0.3;0.9" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Floating Particles -->
+  <circle cx="150" cy="150" r="2" fill="#A78BFA" opacity="0.8" filter="url(#glow)">
+    <animate attributeName="cy" values="150;50;150" dur="15s" repeatCount="indefinite"/>
+    <animate attributeName="cx" values="150;250;150" dur="10s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.8;0;0.8" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  
+  <circle cx="1000" cy="200" r="2" fill="#8B5CF6" opacity="0.8" filter="url(#glow)">
+    <animate attributeName="cy" values="200;80;200" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="cx" values="1000;900;1000" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.8;0;0.8" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Main Text -->
+  <text x="50%" y="45%" text-anchor="middle" font-family="Fira Code, monospace" font-size="60" font-weight="bold" fill="#ffffff" filter="url(#glow)">
+    Anas Ahmed
+    <animate attributeName="opacity" values="0.9;1;0.9" dur="4s" repeatCount="indefinite"/>
+  </text>
+  
+  <!-- Subtitle -->
+  <text x="50%" y="60%" text-anchor="middle" font-family="Fira Code, monospace" font-size="24" fill="#A78BFA" letter-spacing="3">
+    SOFTWARE DEVELOPER
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="3s" repeatCount="indefinite"/>
+  </text>
+  
+  <!-- Animated Line -->
+  <line x1="40%" y1="70%" x2="60%" y2="70%" stroke="#8B5CF6" stroke-width="2" stroke-linecap="round">
+    <animate attributeName="x1" values="40%;35%;40%" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="x2" values="60%;65%;60%" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/>
+  </line>
+</svg>
